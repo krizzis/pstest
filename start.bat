@@ -1,0 +1,1 @@
+start Powershell -WindowStyle Hidden -executionpolicy remotesigned -File ./test2.ps1
